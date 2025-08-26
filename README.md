@@ -55,14 +55,14 @@ _Delivering Trust, Speed & Care across the nation_
 - 🌓 **Dark/Light Mode** - Toggle between themes
 - 🌍 **Multi-language Support** - English & Bengali
 - 📱 **Responsive Design** - Works on all devices
-- ⚡ **Real-time Updates** - Live notifications and tracking
+- ⚡ **Real-time Updates** - Real Time Email and tracking Feature
 - 🎭 **Smooth Animations** - Enhanced with Framer Motion
 
 ### 📦 **Core Functionality**
 
 - 📋 **Parcel Booking** - Easy-to-use booking system
 - 🔍 **Real-time Tracking** - Track parcels with live GPS
-- 💰 **Flexible Payment** - COD and prepaid options
+- 💰 **Payment** - COD
 - 📊 **Analytics Dashboard** - Comprehensive reporting
 - 🚛 **Delivery Management** - Efficient route optimization
 
@@ -113,7 +113,7 @@ Dedicated portal for delivery agents to manage their deliveries efficiently.
 1. Visit the **"Become Agent"** page
 2. Fill out the application form
 3. Wait for admin approval (2-3 business days)
-4. Receive login credentials
+4. Receive Email For Update
 5. Start delivering!
 
 ### 👨‍💼 **Admin Dashboard**
@@ -131,9 +131,8 @@ Comprehensive management portal for system administrators.
 
 **Admin Access:**
 
-- Contact system administrator for admin credentials
-- Access comprehensive management tools
-- Generate detailed reports and analytics
+- email : shutshob@gmail.com
+- pass : Utshob123
 
 ---
 
@@ -237,6 +236,7 @@ Comprehensive management portal for system administrators.
 - ⚛️ **React 19.1.1** - Modern UI library
 - 🎨 **Tailwind CSS 4.1.12** - Utility-first CSS framework
 - 🌸 **DaisyUI 5.0.50** - Beautiful component library
+- 🌸 **Resend For Email** - For Email Service
 - 🎭 **Framer Motion 12.23.12** - Smooth animations
 - 🌍 **React i18next** - Internationalization
 - 📊 **Recharts** - Data visualization
@@ -440,9 +440,9 @@ We welcome contributions to HurryUp Express! Here's how you can help:
 
 ### **Need Help?**
 
-- 📧 **Email**: info@hurryupexpress.com
-- 📱 **Phone**: +880 1234-567890
-- 💬 **Support**: support@hurryupexpress.com
+- 📧 **Email**: shutshob@gmail.com
+- 📱 **Phone**: +880 1601949074
+- 💬 **Support**: shutshob@gmail.com
 - 🌐 **Website**: [https://hurryup-e4338.web.app/](https://hurryup-e4338.web.app/)
 
 ### **Business Hours**
@@ -453,10 +453,9 @@ We welcome contributions to HurryUp Express! Here's how you can help:
 
 ### **Social Media**
 
-- 📘 Facebook: @HurryUpExpress
-- 🐦 Twitter: @HurryUpExpress
-- 📸 Instagram: @hurryupexpress
-- 💼 LinkedIn: HurryUp Express
+- 📘 Facebook:[ @Shahriar Utshob](https://www.facebook.com/Shahriahasanutshob/)
+- 🐦 PortFolio: [@Hasan Utshob](https://hasanutshob.netlify.app/)
+- 💼 LinkedIn:[ Md Hasan Utshob](https://www.linkedin.com/in/md-hasan-utshob/)
 
 ---
 
