@@ -1,0 +1,429 @@
+{
+  "greeting": "Welcome",
+  "description": "This is a <1>multilingual</1> website.",
+  "cart": {
+    "items_one": "{{count}} item in cart",
+    "items_other": "{{count}} items in cart"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "bookParcel": "Book Parcel",
+    "becomeAgent": "Become Agent",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "ui": {
+    "userAvatar": "User Avatar",
+    "switchToLightMode": "Switch to Light Mode",
+    "switchToDarkMode": "Switch to Dark Mode"
+  },
+  "banner": {
+    "slides": {
+      "slide1": {
+        "title": "Fast & Reliable Delivery",
+        "subtitle": "Your packages delivered with speed and care across the nation",
+        "cta": "Track Package"
+      },
+      "slide2": {
+        "title": "Express Courier Services",
+        "subtitle": "Professional logistics solutions for businesses and individuals",
+        "cta": "Get Quote"
+      },
+      "slide3": {
+        "title": "Secure Transportation",
+        "subtitle": "Advanced tracking and secure handling for your valuable items",
+        "cta": "Learn More"
+      },
+      "slide4": {
+        "title": "24/7 Customer Support",
+        "subtitle": "Round-the-clock assistance for all your delivery needs",
+        "cta": "Contact Us"
+      }
+    },
+    "buttons": {
+      "ourServices": "Our Services"
+    },
+    "stats": {
+      "deliveries": "Deliveries",
+      "support": "Support",
+      "onTime": "On Time"
+    }
+  },
+  "home": {
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive courier solutions for all your delivery needs",
+      "expressDelivery": {
+        "title": "Express Delivery",
+        "description": "Same-day and next-day delivery options for urgent packages with real-time tracking and priority handling."
+      },
+      "standardShipping": {
+        "title": "Standard Shipping",
+        "description": "Cost-effective delivery solution for regular packages with reliable service and competitive pricing."
+      },
+      "bulkShipping": {
+        "title": "Bulk Shipping",
+        "description": "Special rates and handling for businesses shipping multiple packages with dedicated account management."
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Choose HurryUp Express?",
+      "subtitle": "We're committed to providing the best courier experience",
+      "reliability": {
+        "title": "99.9% Reliability",
+        "description": "Our proven track record ensures your packages reach their destination safely and on time."
+      },
+      "coverage": {
+        "title": "Nationwide Coverage",
+        "description": "We deliver to every corner of the country with our extensive network of delivery partners."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Our customer service team is always available to help you with any questions or concerns."
+      },
+      "tracking": {
+        "title": "Real-time Tracking",
+        "description": "Monitor your package journey from pickup to delivery with our advanced tracking system."
+      }
+    },
+    "stats": {
+      "title": "Trusted by Thousands",
+      "subtitle": "Our numbers speak for themselves",
+      "deliveries": {
+        "number": "50,000+",
+        "label": "Successful Deliveries"
+      },
+      "customers": {
+        "number": "10,000+",
+        "label": "Happy Customers"
+      },
+      "cities": {
+        "number": "100+",
+        "label": "Cities Covered"
+      },
+      "satisfaction": {
+        "number": "99%",
+        "label": "Customer Satisfaction"
+      }
+    }
+  },
+  "footer": {
+    "company": {
+      "title": "HurryUp Express",
+      "description": "Your trusted partner for fast, reliable, and secure courier services across the nation. We deliver excellence with every package.",
+      "tagline": "Delivering Trust, Speed & Care"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "services": "Services",
+      "pricing": "Pricing",
+      "contact": "Contact",
+      "careers": "Careers"
+    },
+    "services": {
+      "title": "Our Services",
+      "expressDelivery": "Express Delivery",
+      "standardShipping": "Standard Shipping",
+      "bulkShipping": "Bulk Shipping",
+      "internationalShipping": "International Shipping",
+      "trackingService": "Package Tracking",
+      "insuranceService": "Package Insurance"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "address": "123 Delivery Street, Dhaka 1000, Bangladesh",
+      "phone": "+880 1234-567890",
+      "email": "info@hurryupexpress.com",
+      "support": "support@hurryupexpress.com"
+    },
+    "social": {
+      "title": "Follow Us",
+      "facebook": "Facebook",
+      "twitter": "Twitter",
+      "instagram": "Instagram",
+      "linkedin": "LinkedIn",
+      "youtube": "YouTube"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Subscribe to get updates on new services and special offers",
+      "placeholder": "Enter your email address",
+      "subscribe": "Subscribe",
+      "success": "Successfully subscribed!",
+      "error": "Please enter a valid email address"
+    },
+    "bottom": {
+      "copyright": "© 2024 HurryUp Express. All rights reserved.",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy"
+    }
+  },
+  "becomeAgent": {
+    "title": "Become a Delivery Agent",
+    "subtitle": "Join our team of professional delivery agents and start earning with flexible working hours.",
+    "benefits": {
+      "flexibleHours": "Flexible working hours",
+      "competitiveCompensation": "Competitive compensation",
+      "professionalTraining": "Professional training provided",
+      "growthOpportunities": "Growth opportunities"
+    },
+    "form": {
+      "title": "Agent Application",
+      "subtitle": "Fill out the form below to apply as a delivery agent",
+      "fullName": {
+        "label": "Full Name",
+        "placeholder": "Enter your full name"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Enter your email address"
+      },
+      "experience": {
+        "label": "Previous Experience (Optional)",
+        "placeholder": "Tell us about your previous delivery or related experience"
+      },
+      "vehicleType": {
+        "label": "Vehicle Type",
+        "placeholder": "Select your vehicle type",
+        "options": {
+          "bicycle": "Bicycle",
+          "motorcycle": "Motorcycle",
+          "car": "Car",
+          "van": "Van",
+          "other": "Other"
+        }
+      },
+      "availability": {
+        "label": "Preferred Working Hours",
+        "placeholder": "Select your preferred hours",
+        "options": {
+          "morning": "Morning (6 AM - 12 PM)",
+          "afternoon": "Afternoon (12 PM - 6 PM)",
+          "evening": "Evening (6 PM - 10 PM)",
+          "flexible": "Flexible (Any time)",
+          "fulltime": "Full-time (8+ hours/day)"
+        }
+      },
+      "submitButton": {
+        "submit": "Submit Agent Request",
+        "submitting": "Submitting..."
+      }
+    },
+    "validation": {
+      "nameRequired": "Full name is required",
+      "nameMinLength": "Name must be at least 2 characters",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Please enter a valid phone number",
+      "phoneMinLength": "Phone number must be at least 10 digits",
+      "emailRequired": "Email address is required",
+      "emailInvalid": "Please enter a valid email address",
+      "vehicleTypeRequired": "Please select a vehicle type",
+      "availabilityRequired": "Please select your availability"
+    },
+    "messages": {
+      "success": "Agent request submitted successfully! We'll review your application and get back to you soon.",
+      "error": "Failed to submit agent request. Please try again.",
+      "reviewTime": "We'll review your application and contact you within 2-3 business days."
+    }
+  },
+  "sidebar": {
+    "backToHome": "Back to Home",
+    "dashboard": "Dashboard",
+    "companyName": "HurryUp Express",
+    "online": "Online",
+    "navigation": "Navigation",
+    "signOut": "Sign Out",
+    "version": "HurryUp Express v1.0.0",
+    "userAvatar": "User Avatar",
+    "menuItems": {
+      "profile": "Profile",
+      "adminDashboard": "Admin Dashboard",
+      "userBooking": "User & There Booking",
+      "assignDeliveryAgent": "Assign Delivery Agent",
+      "agentRequests": "Agent Requests",
+      "agentDashboard": "Agent Dashboard",
+      "myDeliveries": "My Deliveries",
+      "customerDashboard": "Customer Dashboard",
+      "bookingHistory": "Booking History",
+      "trackParcel": "Track Parcel",
+      "bookNewParcel": "Book New Parcel"
+    }
+  },
+  "topbar": {
+    "home": "Home",
+    "backToHome": "Back to Home",
+    "notifications": "Notifications",
+    "switchToLightMode": "Switch to Light Mode",
+    "switchToDarkMode": "Switch to Dark Mode",
+    "userAvatar": "User Avatar",
+    "welcome": "Welcome",
+    "hi": "Hi",
+    "viewAllNotifications": "View All Notifications",
+    "breadcrumbs": {
+      "home": "Home",
+      "dashboard": "Dashboard",
+      "myParcels": "My Parcels",
+      "trackParcel": "Track Parcel",
+      "bookParcel": "Book Parcel",
+      "adminDashboard": "Admin Dashboard",
+      "agentDashboard": "Agent Dashboard",
+      "customerDashboard": "Customer Dashboard",
+      "profile": "Profile",
+      "assignDeliveryAgent": "Assign Delivery Agent",
+      "agentRequests": "Agent Requests",
+      "agentDeliveries": "Agent Deliveries",
+      "bookingInfo": "Booking Info"
+    },
+    "notificationItems": {
+      "parcelDelivered": "Parcel Delivered",
+      "parcelDeliveredMessage": "Your parcel #12345 has been delivered successfully",
+      "newBooking": "New Booking",
+      "newBookingMessage": "You have a new parcel booking request",
+      "paymentReceived": "Payment Received",
+      "paymentReceivedMessage": "Payment of ৳450 has been received",
+      "timeAgo": {
+        "minAgo": "{{count}} min ago",
+        "hourAgo": "{{count}} hour ago"
+      }
+    },
+    "roles": {
+      "customer": "Customer",
+      "agent": "Agent",
+      "admin": "Admin"
+    }
+  },
+  "bookParcel": {
+    "title": "Book Your Parcel",
+    "subtitle": "Fast, reliable, and secure parcel delivery service",
+    "pickupAddress": {
+      "title": "Pickup Address",
+      "contactName": "Contact Name",
+      "contactNamePlaceholder": "Enter contact person name",
+      "phoneNumber": "Phone Number",
+      "phoneNumberPlaceholder": "Enter phone number",
+      "fullAddress": "Full Address",
+      "fullAddressPlaceholder": "Enter complete pickup address"
+    },
+    "deliveryAddress": {
+      "title": "Delivery Address",
+      "contactName": "Contact Name",
+      "contactNamePlaceholder": "Enter contact person name",
+      "phoneNumber": "Phone Number",
+      "phoneNumberPlaceholder": "Enter phone number",
+      "streetAddress": "Street Address",
+      "streetAddressPlaceholder": "Enter street address",
+      "division": "Division",
+      "divisionPlaceholder": "Enter division (e.g., Dhaka, Chittagong)",
+      "zipCode": "Zip Code",
+      "zipCodePlaceholder": "Enter zip code (e.g., 1000)"
+    },
+    "parcelDetails": {
+      "title": "Parcel Details",
+      "selectParcelSize": "Select Parcel Size",
+      "chooseParcelSize": "Choose parcel size...",
+      "selectParcelType": "Select Parcel Type",
+      "chooseParcelType": "Choose parcel type...",
+      "parcelWeight": "Parcel Weight (kg)",
+      "parcelWeightPlaceholder": "Enter parcel weight in kg",
+      "specialInstructions": "Special Instructions (Optional)",
+      "specialInstructionsPlaceholder": "Any special handling instructions..."
+    },
+    "parcelSizes": {
+      "small": {
+        "label": "Small",
+        "description": "Up to 1kg"
+      },
+      "medium": {
+        "label": "Medium",
+        "description": "1-5kg"
+      },
+      "large": {
+        "label": "Large",
+        "description": "5-15kg"
+      },
+      "extraLarge": {
+        "label": "Extra Large",
+        "description": "15kg+"
+      }
+    },
+    "parcelTypes": {
+      "document": "Document",
+      "electronics": "Electronics",
+      "clothing": "Clothing",
+      "food": "Food",
+      "fragile": "Fragile Items",
+      "other": "Other"
+    },
+    "deliveryCharges": {
+      "title": "Delivery Charges",
+      "baseDeliveryCharge": "Base Delivery Charge:",
+      "extraWeightCharge": "Extra Weight Charge",
+      "totalCharge": "Total Charge:",
+      "freeWeight": "5kg Free",
+      "premiumZone": "Premium Zone - 100 BDT",
+      "standardZone": "Standard Zone - 160 BDT"
+    },
+    "paymentMethod": {
+      "title": "Payment Method",
+      "cod": {
+        "title": "Cash on Delivery (COD)",
+        "description": "Pay when your parcel is delivered"
+      },
+      "prepaid": {
+        "title": "Prepaid",
+        "description": "Pay online now (10% discount)"
+      }
+    },
+    "submitButton": {
+      "booking": "Booking Your Parcel...",
+      "bookNow": "Book Parcel Now"
+    },
+    "features": {
+      "fastDelivery": {
+        "title": "Fast Delivery",
+        "description": "Same day and next day delivery options available"
+      },
+      "secureHandling": {
+        "title": "Secure Handling",
+        "description": "Your parcels are handled with utmost care and security"
+      },
+      "realTimeTracking": {
+        "title": "Real-time Tracking",
+        "description": "Track your parcel in real-time with live updates"
+      }
+    },
+    "validation": {
+      "contactNameRequired": "Contact name is required",
+      "contactNameMinLength": "Name must be at least 2 characters",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Invalid phone number format",
+      "pickupAddressRequired": "Pickup address is required",
+      "pickupAddressMinLength": "Address must be at least 10 characters",
+      "deliveryContactNameRequired": "Contact name is required",
+      "streetAddressRequired": "Street address is required",
+      "streetAddressMinLength": "Address must be at least 5 characters",
+      "divisionRequired": "Division is required",
+      "divisionMinLength": "Division must be at least 2 characters",
+      "zipCodeRequired": "Zip code is required",
+      "zipCodeInvalid": "Zip code must be 4 digits",
+      "parcelSizeRequired": "Please select parcel size",
+      "parcelTypeRequired": "Please select parcel type",
+      "parcelWeightRequired": "Parcel weight is required",
+      "parcelWeightMin": "Weight must be at least 0.1 kg",
+      "parcelWeightMax": "Weight cannot exceed 100 kg",
+      "paymentMethodRequired": "Please select payment method"
+    },
+    "success": "Parcel booked successfully! 🚚\\nBooking ID: {{bookingId}}",
+    "error": "Failed to book parcel: {{error}}"
+  }
+}
