@@ -10,7 +10,7 @@
 
 ### 🌟 Fast, Reliable & Secure Courier Services
 
-**[🚀 Live Demo](https://hurryup-e4338.web.app/)** | **[📱 Mobile Responsive](#features)** | **[🌍 Multi-Language](#features)**
+**[🚀 Live Demo](https://hurryupexpress.netlify.app/)** | **[📱 Mobile Responsive](#features)** | **[🌍 Multi-Language](#features)**
 
 _Delivering Trust, Speed & Care across the nation_
 
@@ -91,7 +91,7 @@ Access your personalized dashboard to manage all your delivery needs.
 
 **How to Access:**
 
-1. Visit [HurryUp Express](https://hurryup-e4338.web.app/)
+1. Visit [HurryUp Express](https://hurryupexpress.netlify.app/)
 2. Click **"Login"** or **"Register"**
 3. Create account or sign in with Google
 4. Access your **Customer Dashboard**
@@ -132,7 +132,7 @@ Comprehensive management portal for system administrators.
 **Admin Access:**
 
 - email : shutshob@gmail.com
-- pass : Utshob123
+- pass : Utshob6114
 
 ---
 
@@ -143,7 +143,7 @@ Comprehensive management portal for system administrators.
 1. **Visit the Live Application**
 
    ```
-   🔗 https://hurryup-e4338.web.app/
+   🔗 https://hurryupexpress.netlify.app/
    ```
 
 2. **Create Your Account**

@@ -73,11 +73,11 @@ const Footer = () => {
 
   const quickLinks = [
     { key: "home", path: "/" },
-    { key: "about", path: "/about" },
-    { key: "services", path: "/services" },
-    { key: "pricing", path: "/pricing" },
-    { key: "contact", path: "/contact" },
-    { key: "careers", path: "/careers" },
+    { key: "about", path: "#" },
+    { key: "services", path: "#" },
+    { key: "pricing", path: "#" },
+    { key: "contact", path: "#" },
+    { key: "careers", path: "#" },
   ];
 
   const services = [

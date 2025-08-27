@@ -66,7 +66,7 @@ try {
   ) {
     try {
       connectAuthEmulator(auth, "http://localhost:9099");
-      console.log("Connected to Firebase Auth emulator");
+      // console.log("Connected to Firebase Auth emulator");
     } catch (error) {
       console.warn(
         "Failed to connect to Firebase Auth emulator:",
@@ -75,7 +75,7 @@ try {
     }
   }
 
-  console.log("Firebase initialized successfully");
+  // console.log("Firebase initialized successfully");
 } catch (error) {
   console.error("Firebase initialization error:", error);
 

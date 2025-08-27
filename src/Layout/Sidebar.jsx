@@ -17,7 +17,7 @@ const Sidebar = ({ isOpen, onClose }) => {
   const { t } = useTranslation();
   const location = useLocation();
   const { user, userData, SignOut } = useAuth();
-  console.log(userData);
+  // console.log(userData);
   const isActiveLink = (path) => {
     // role-based default dashboard
     const getDefaultDashboardPath = () => {

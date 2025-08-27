@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { AuthContext } from "../AuthContext";
-import { auth } from "../../firebase_init";
+import { auth } from "../../../firebase_init";
 import axios from "axios";
 import {
   createUserWithEmailAndPassword,
