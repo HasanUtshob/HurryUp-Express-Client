@@ -443,7 +443,7 @@ We welcome contributions to HurryUp Express! Here's how you can help:
 - 📧 **Email**: shutshob@gmail.com
 - 📱 **Phone**: +880 1601949074
 - 💬 **Support**: shutshob@gmail.com
-- 🌐 **Website**: [https://hurryup-e4338.web.app/](https://hurryup-e4338.web.app/)
+- 🌐 **Website**: [https://hasanutshob.netlify.app/](https://hasanutshob.netlify.app/)
 
 ### **Business Hours**
 
